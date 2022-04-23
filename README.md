@@ -1,6 +1,7 @@
 # Laravel Livewire Application
 
 # Feature
-1. User CRUD
-2. Client CRUD
-3. Appointment CRUD
+
+1. Appointment CRUD
+2. User CRUD
+3. Client CRUD
